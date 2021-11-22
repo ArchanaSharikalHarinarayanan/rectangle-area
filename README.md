@@ -35,4 +35,4 @@ int main()
 ![area of rectange](/Output.jpg)
 
 ## Result:
-Thus the program for finding the area of rectangle is written and the output is verified.
+Thus the program for finding the area of rectangle is written and the output is executed succesfully.
