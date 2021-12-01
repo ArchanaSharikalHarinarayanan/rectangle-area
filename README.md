@@ -32,7 +32,7 @@ int main()
 }
 ```
 ## Output:
-![area of rectange](/Output.jpg)
+![area of rectange](./Output.jpg)
 
 ## Result:
 Thus the program for finding the area of rectangle is written and the output is executed succesfully.
